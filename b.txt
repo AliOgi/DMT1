@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 änderung 1
 
 änderung 2 
@@ -5,3 +6,6 @@ dfdsfsa
 dsfsafadsfa
 
 dsfa
+=======
+dfdsafdsafa
+>>>>>>> dev
